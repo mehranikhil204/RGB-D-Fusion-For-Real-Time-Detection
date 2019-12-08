@@ -1,0 +1,13 @@
+# Runtime dependencies
+brambox
+
+# Development dependencies
+pycodestyle
+pytest
+sphinx
+sphinx_rtd_theme
+recommonmark
+nbsphinx
+sphinxcontrib-bibtex
+
+-e .
